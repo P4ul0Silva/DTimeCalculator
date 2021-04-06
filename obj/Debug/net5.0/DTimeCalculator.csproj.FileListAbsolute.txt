@@ -1,0 +1,16 @@
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\bin\Debug\net5.0\DTimeCalculator.exe
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\bin\Debug\net5.0\DTimeCalculator.deps.json
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\bin\Debug\net5.0\DTimeCalculator.runtimeconfig.json
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\bin\Debug\net5.0\DTimeCalculator.runtimeconfig.dev.json
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\bin\Debug\net5.0\DTimeCalculator.dll
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\bin\Debug\net5.0\ref\DTimeCalculator.dll
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\bin\Debug\net5.0\DTimeCalculator.pdb
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\DTimeCalculator.csprojAssemblyReference.cache
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\DTimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\DTimeCalculator.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\DTimeCalculator.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\DTimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\DTimeCalculator.dll
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\ref\DTimeCalculator.dll
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\DTimeCalculator.pdb
+C:\Users\paulo\Desktop\Nova pasta\DTimeCalculator\obj\Debug\net5.0\DTimeCalculator.genruntimeconfig.cache
